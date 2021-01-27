@@ -8,7 +8,7 @@ namespace MyMovieStoreIqbal.Common
 {
     public class CustomerData
     {
-        // Customer Data
+        // Customer Data Model
         public int CustId { get; set; }
         public string Name { get; set; }
         public long Phone { get; set; }

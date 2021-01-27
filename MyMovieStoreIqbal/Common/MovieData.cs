@@ -8,7 +8,8 @@ namespace MyMovieStoreIqbal.Common
 {
     public class MovieData
     {
-        // Movie table data
+        // Movie table data model
+
        public int MovieId { get; set; }
         public string Title { get; set; }
         public string Year { get; set; }

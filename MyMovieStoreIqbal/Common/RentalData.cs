@@ -8,7 +8,7 @@ namespace MyMovieStoreIqbal.Common
 {
     public class RentalData
     {
-        // Rent movie data
+        // Rent movie data model
         public int RentId { get; set; }
         public int MovieId { get; set; }
         public int CustId { get; set; }
