@@ -11,7 +11,7 @@ namespace MyMovieStoreIqbal.Operation
         // to check empty textbox
         public static bool Empty(string value)
         {
-            return value.Equals("");
+            return value.Equals("");//Equal Method
         }
 
         // to check valid number
